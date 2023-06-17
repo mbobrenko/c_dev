@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\examples\003examples\bin\Debug\net6.0\003examples.exe
+C:\Users\user\OneDrive\Desktop\examples\003examples\bin\Debug\net6.0\003examples.deps.json
+C:\Users\user\OneDrive\Desktop\examples\003examples\bin\Debug\net6.0\003examples.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\examples\003examples\bin\Debug\net6.0\003examples.dll
+C:\Users\user\OneDrive\Desktop\examples\003examples\bin\Debug\net6.0\003examples.pdb
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.dll
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\refint\003examples.dll
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.pdb
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\003examples.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\examples\003examples\obj\Debug\net6.0\ref\003examples.dll
